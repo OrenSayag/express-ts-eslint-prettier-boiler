@@ -1,1 +1,1 @@
-A boiler plate for a useful basis
+A template for a useful basis
